@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하쇼 👋
 
 <!--
 **eunbin0523/eunbin0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="70%" src="https://user-images.githubusercontent.com/80062198/202338675-08585607-5d0a-45ef-97ac-e93388bf2e11.jpg"/>
+<img width="100%" src="https://user-images.githubusercontent.com/80062198/202338675-08585607-5d0a-45ef-97ac-e93388bf2e11.jpg"/>
